@@ -1,0 +1,2 @@
+# same_characters
+Initial data text contains certain text. The delimiters are known. Inserts the number of characters and the count of the same characters of the word behind the word in parenthesis. The uppercase and lowercase letters are considered as the same letters. Modified text is written to a separate result file Results.txt. Analysis file Analysis.txt contains table format (2 columns): line number, number of parenthesis inserted.
